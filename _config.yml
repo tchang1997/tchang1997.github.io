@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Trenton Chang / Machine Learning Researcher"
 title_separator          : "-"
 name                     : &name "Trenton Chang"
-description              : &description "Hi. I'm Trenton. I'm an incoming EECS PhD Student at the University of Michigan. My main interests are in machine learning robustness and fairness, especially from a lens of algorithmic justice and accountability."
-url                      : https://trentonchang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://tchainzzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "trentonchang.github.io"
+repository               : "tchainzzz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
