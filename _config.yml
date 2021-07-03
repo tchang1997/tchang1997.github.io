@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Trenton Chang"
-  avatar           : "profile.png"
-  bio              : "Machine learning researcher."
+  avatar           : "profile175x175.PNG"
+  bio              : "Machine learning researcher. Interested in robustness and fairness."
   location         : "U.S."
   employer         :
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "linkedin.com/in/trenton-chang/"
+  linkedin         : "linkedin.com/in/trenton-chang/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/10497351/tchainzzz"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
