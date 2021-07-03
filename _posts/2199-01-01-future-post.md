@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Test Blog Post'
+date: 2021-07-03
+permalink: /posts/2021/07/03/test-blog-post/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - testing
+  - testing again
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Hi this is a test! How are you? I'm good.
