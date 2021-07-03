@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trenton Chang / Machine Learning Researcher"
+title                    : "Trenton Chang / ML Researcher"
 title_separator          : "-"
 name                     : &name "Trenton Chang"
 description              : &description ""
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trenton Chang"
-  avatar           : "profile175x175.PNG"
+  avatar           : "profile175x175.png"
   bio              : "Machine learning researcher. Interested in robustness and fairness."
   location         : "U.S."
   employer         :
