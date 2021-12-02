@@ -10,19 +10,24 @@ redirect_from:
 
 Hi, I'm Trenton (he/him)! I am an incoming EECS PhD student at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/). My primary research interests are in **machine learning robustness and fairness.** I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020.
 
-I've worked on video machine learning robustness with [HazyResearch](hazyresearch.stanford.edu/) and open-domain conversational AI with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
+I've worked on video machine learning robustness with [HazyResearch](hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
 
 I am interested in machine learning robustness and fairness especially as they pertain to **algorithmic justice and social inequity.** 
 
 Email: `ctrenton (at) umich (dot) edu`
 
+Current Work
+======
+
+I am currently advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I am working on identifying and mitigating clinician biases in the context of training clinical risk-stratification models, towards the goal of training clinically relevant machine learning models that perform fairly in the presence of possible clinician bias and healthcare disparities.
+
 Recent News
 ======
 
-* **[06/15/2021]** Officially earned my MS degree! Very grateful for all of my research mentors, especially [Dan Fu](https://danfu.org) and [Sharon Li](http://pages.cs.wisc.edu/~sharonli/index.html).
+* **[08/30/2021]** Started my PhD at the University of Michigan.
+* **[08/16/2021]** The [Chirpy Cardinal](https://stanfordnlp.github.io/chirpycardinal/) team  socialbot was awarded 2nd Prize in the Alexa Prize Socialbot Grand Challenge!
+* **[06/15/2021]** Officially earned my MS degree! I am very grateful for all of my research mentors, especially [Dan Fu](https://danfu.org) and [Sharon Li](http://pages.cs.wisc.edu/~sharonli/index.html), who directly mentored me for my work in machine learning robustness.
 * **[03/29/2021]** Very proud of my Stanford ACM mentees [Ryan](http://ryanachi.com/) and [Ian](https://www.linkedin.com/in/ian-ng-5b757918a/) for their acceptance into the [BIG-BENCH challenge](https://github.com/google/BIG-bench) for SNARKS, a contrastive sarcasm evaluation benchmark for large language models!
-* **[03/17/2021]** I've accepted an offer to attend the University of Michigan, where I will be pursuing a PhD in EECS!
-* **[01/28/2021]** I will be co-presenting at the Computer Science Teachers of America conference this summer with Daniela Ganelin on AI Ethics Education for my work at [Inspirit AI](https://www.inspiritai.com/)!
 
 Publications
 ======
