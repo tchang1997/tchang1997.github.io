@@ -24,13 +24,13 @@ I am advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I am work
 Recent News
 ======
 
-* **[08/01/2022]** Excited to announce that I will be presenting my work on **disparate censorship and undertesting,** a real-world source of bias with potential to cause harm in clinical machine learning. To find out what it is and what we can do about it, check out [our paper](files/mlhc2022_disparatecensorship.pdf). 
-* **[08/16/2021]** The [Chirpy Cardinal](https://stanfordnlp.github.io/chirpycardinal/) team socialbot was awarded 2nd Prize in the Alexa Prize Socialbot Grand Challenge! Read our technical report [here](files/alexa_prize_report.pdf).
+* **[08/01/2022]** Excited to announce that I will be presenting my work on **disparate censorship and undertesting,** a real-world source of bias with potential to cause harm in clinical machine learning. To find out what it is and what we can do about it, check out [our paper](/files/mlhc2022_disparatecensorship.pdf). 
+* **[08/16/2021]** The [Chirpy Cardinal](https://stanfordnlp.github.io/chirpycardinal/) team socialbot was awarded 2nd Prize in the Alexa Prize Socialbot Grand Challenge! Read our technical report [here](/files/alexa_prize_report.pdf).
 
 Publications
 ======
 
-**Chang, Trenton**, Sjoding, Michael W., and Wiens, Jenna. **Disparate Censorship & Undertesting: A Source of Label Bias in Clinical Machine Learning.** MLHC 2022. [[paper]](files/mlhc2022_disparatecensorship.pdf)
+**Chang, Trenton**, Sjoding, Michael W., and Wiens, Jenna. **Disparate Censorship & Undertesting: A Source of Label Bias in Clinical Machine Learning.** MLHC 2022. [[paper]](/files/mlhc2022_disparatecensorship.pdf)
 
 Preprints/Workshop Papers
 ======
