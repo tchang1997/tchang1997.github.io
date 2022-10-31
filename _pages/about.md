@@ -31,7 +31,11 @@ Recent News
 Publications
 ======
 
+Chi, Ethan A., Paranjape, Ashwin, See, Abigail, Chiam, Caleb, **Chang, Trenton** et. al. **Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**. SIGDIAL 2022. [[paper]](https://aclanthology.org/2022.sigdial-1.37/) [[video]](https://www.youtube.com/watch?v=4F3Az88q3KI)
+
 **Chang, Trenton**, Sjoding, Michael W., and Wiens, Jenna. **Disparate Censorship & Undertesting: A Source of Label Bias in Clinical Machine Learning.** MLHC 2022. [[paper]](https://arxiv.org/abs/2208.01127) [[video]](https://www.youtube.com/watch?v=Ty_l4SqKyCI)
+
+Chi, Ethan A., Chiam, Caleb, **Chang, Trenton** et. al. **Neural, Neural Everywhere: Controlled Generation Meets Scaffolded, Structured Dialogue.** Alexa Prize Proceedings 2021. [[paper]](files/alexa_prize_report.pdf)
 
 Preprints/Workshop Papers
 ======
