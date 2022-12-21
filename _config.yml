@@ -73,16 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    measurement_id: "G-6QTWCTF1Q5"
 
 
 # Site Author
 author:
   name             : "Trenton Chang"
   avatar           : "profile175x175.png"
-  bio              : "Machine learning researcher. Interested in robustness and fairness."
+  bio              : "Ph.D. Candidate, Computer Science, University of Michigan."
   location         : "U.S."
   employer         :
   pubmed           : 

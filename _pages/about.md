@@ -46,7 +46,7 @@ Preprints/Workshop Papers
 
 Service
 ======
-* Reviewed: **2022 TS4H & ML4H** workshops (NeurIPS), **2021 ML4H** workshop (Best Reviewer Award)
+* Reviewed: **2022 ML4H** workshop (NeurIPS), **2022 MLHC** conference,  **2021 ML4H** workshop (Best Reviewer Award)
 
 Teaching
 ======
