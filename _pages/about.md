@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 2nd year EECS PhD Candidate at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/). My primary research area is in **machine learning fairness in healthcare.** I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020.
-
-I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
+Hi, I'm Trenton (he/him)! I am a rising 3rd year EECS PhD Candidate at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/). My primary research area is **machine learning fairness in healthcare.** To date, my work has focused on analyzing and mitigating the downstream impact of biases in clinical decision-making cross patient subpopulations on the performance and fairness of AI models for clinical decision support.
 
 I am interested in machine learning robustness and fairness especially as they pertain to **algorithmic justice and social inequity.** 
+
+I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
 
 Email: `ctrenton (at) umich (dot) edu`
 
@@ -23,10 +23,9 @@ I am advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I am work
 
 Recent News
 ======
-
+* **[05/23/2023]** I recently contributed to a STAT news article about large language models in healthcare: ["What does generative AI mean for healthcare?"](https://www.statnews.com/2023/05/23/chatgpt-generative-ai-research-medicine-health/)
+* **[04/09/2023]** I will be serving as the [CSEG](https://cseg-michigan.github.io/) University Relations chair. Excited for this opportunity to serve my grad student community and work with the department! 
 * **[10/20/2022]** I sat down with [Rackham Graduate School](https://rackham.umich.edu/discover-rackham/) to talk about my research in machine learning for healthcare, and the direction of machine learning for healthcare in general. Check out my [interview here](https://rackham.umich.edu/discover-rackham/healthcareai/)!
-* **[10/01/2022]** I have completed my preliminary exam, and will advance to PhD candidacy next semester!
-* **[08/01/2022]** Excited to announce that I will be presenting my work on **disparate censorship and undertesting,** a real-world source of bias with potential to cause harm in clinical machine learning. To find out what it is and what we can do about it, check out [our paper](https://arxiv.org/abs/2208.01127). 
 
 Publications
 ======
@@ -46,10 +45,14 @@ Preprints/Workshop Papers
 
 Service
 ======
-* Reviewed: **2022 ML4H** workshop (NeurIPS), **2022 MLHC** conference,  **2021 ML4H** workshop (Best Reviewer Award)
+* Reviewed: **2023 KDD epiDAMIK** workshop, **2023 MLHC** conference, **2022 NeurIPS ML4H** workshop (NeurIPS), **2022 MLHC** conference,  **2021 NeurIPS Research2Clinics** workshop (Best Reviewer Award)
+* University Relations Chair, Computer Science & Engineering Graduate Student Organization, Unversity of Michigan (2023-present)
+* Panelist, Summer Research Opportunity Program, University of Michigan (2023)
+* AI Lab Graduate Admissions Committee Volunteer, Division of Computer Science & Engineering, University of Michigan (2022)
 
 Teaching
 ======
+* **[07/2023 - 08/2023]** Workshop organizer, Xplore Engineering & Discover Engineering, Division of Computer Science & Engineering, University of Michigan
 * **[07/2022]** Instructor, AI4ALL
 * **[01/2021 - 03/2021]** Research Mentor, Stanford ACM
 * **[06/2020 - 08/2020]** Instructor, Inspirit AI
