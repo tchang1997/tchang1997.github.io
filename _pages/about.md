@@ -20,7 +20,7 @@ Email: `ctrenton (at) umich (dot) edu`
 Recent News
 ======
 * **[10/08/2023]** I had the pleasure of giving a talk about my work for the [Ann Arbor Machine Learning Meetup](https://www.meetup.com/ann-arbor-machine-learning-meetup/), an informal community gathering for those interested in healthcare. 
-* **[08/30/2023] **This semester, I will be serving as the Graduate Student Instructor for the inaugural offering of [Maggie Makar's](https://mymakar.github.io/) Causality and Machine Learning course (EECS 598-009)!
+* **[08/30/2023]** This semester, I will be serving as the Graduate Student Instructor for the inaugural offering of [Maggie Makar's](https://mymakar.github.io/) Causality and Machine Learning course (EECS 598-009)!
 * **[05/23/2023]** I recently contributed to a STAT news article about large language models in healthcare: ["What does generative AI mean for healthcare?"](https://www.statnews.com/2023/u05/23/chatgpt-generative-ai-research-medicine-health/)
 
 Publications
@@ -39,17 +39,22 @@ Preprints/Workshop Papers
 
 **Chang, Trenton**, Fu, Daniel Y., Li, Sharon, and Ré, Christopher. **Beyond the Pixels: Exploring the Effect of Video File Corruptions on Model Robustness.** Short Paper, *ECCV 2020 Workshop on Adversarial Robustness in the Real World.* [[paper]](http://pages.cs.wisc.edu/~sharonli/publications/video-corruption.pdf) [[video]](https://www.youtube.com/watch?v=RXYD4jMZyV0)
 
-Service
+Departmental Service
 ======
 * Reviewed: 2023 NeurIPS ML4H workshop, 2023 KDD epiDAMIK workshop, 2023 MLHC conference, 2022 NeurIPS ML4H workshop, 2022 MLHC conference, 2021 NeurIPS Research2Clinics workshop (Best Reviewer Award)
 * University Relations Chair, Computer Science & Engineering Graduate Student Organization, Unversity of Michigan (2023-present)
 * Panelist, Summer Research Opportunity Program, University of Michigan (2023)
 * AI Lab Graduate Admissions Committee Volunteer, Division of Computer Science & Engineering, University of Michigan (2022)
 
-Teaching
+Teaching & Mentoring
 ======
+
+**Undergraduate/graduate level**
+* **[08/2023 - present]** Graduate student instructor, Causality and Machine Learning, EECS 598-009, University of Michigan
+* **[01/2021 - 03/2021]** Research Mentor, Stanford ACM
+
+**K-12 level**
 * **[07/2023 - 08/2023]** Workshop organizer, Xplore Engineering & Discover Engineering, Division of Computer Science & Engineering, University of Michigan
 * **[07/2022]** Instructor, AI4ALL
-* **[01/2021 - 03/2021]** Research Mentor, Stanford ACM
 * **[06/2020 - 08/2020]** Instructor, Inspirit AI
 * **[06/2019 - 08/2019]** Residential Counselor/Teaching Assistant for Artificial Intelligence, Stanford Pre-Collegiate Studies
