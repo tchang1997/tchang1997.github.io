@@ -4,7 +4,7 @@ main:
   #  url: /blog/
   #- title: "Talks"
   #  url: /talks/   
-  #- title: "Teaching"
-  #  url: /teaching/   
+  - title: "Teaching"
+    url: /teaching/   
   - title: "Curriculum Vitae"
-    url: /files/cv.pdf
+    url: /files/CV_2023_Public.pdf

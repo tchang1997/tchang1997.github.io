@@ -41,10 +41,10 @@ Preprints/Workshop Papers
 
 Departmental Service
 ======
-* Reviewed: 2023 NeurIPS ML4H workshop, 2023 KDD epiDAMIK workshop, 2023 MLHC conference, 2022 NeurIPS ML4H workshop, 2022 MLHC conference, 2021 NeurIPS Research2Clinics workshop (Best Reviewer Award)
-* University Relations Chair, Computer Science & Engineering Graduate Student Organization, Unversity of Michigan (2023-present)
-* Panelist, Summer Research Opportunity Program, University of Michigan (2023)
-* AI Lab Graduate Admissions Committee Volunteer, Division of Computer Science & Engineering, University of Michigan (2022)
+* **Reviewed:** 2023 NeurIPS ML4H workshop, 2023 KDD epiDAMIK workshop, 2023 MLHC conference, 2022 NeurIPS ML4H workshop, 2022 MLHC conference, 2021 NeurIPS Research2Clinics workshop (Best Reviewer Award)
+* **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-present)
+* **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
+* **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022)
 
 Teaching & Mentoring
 ======
@@ -58,3 +58,4 @@ Teaching & Mentoring
 * **[07/2022]** Instructor, AI4ALL
 * **[06/2020 - 08/2020]** Instructor, Inspirit AI
 * **[06/2019 - 08/2019]** Residential Counselor/Teaching Assistant for Artificial Intelligence, Stanford Pre-Collegiate Studies
+
