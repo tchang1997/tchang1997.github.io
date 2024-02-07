@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/) advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My primary research area is **machine learning fairness in healthcare.** My work focuses on the following:
-* Algorithms for mitigating the downstream impact of biases in clinical decision-making on the performance and fairness of AI models in healthcare
-* Identifying potential sources of inequity in the data used to train AI models in healthcare 
-* Developing AI models that account for past and existing health inequities
+Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/) advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My primary research area is **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on the following:
+* Algorithms for mitigating the impact of biases on the performance and fairness of AI models 
+* Identifying potential sources of inequity in the data used to train AI models  
 
 I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
 
@@ -19,9 +18,10 @@ Email: `ctrenton (at) umich (dot) edu`
 
 Recent News
 ======
+* **[10/23/2023]** I delivered a course lecture on [Fairness in Machine Learning as a Causal Question](https://trentonchang.org/files/lecture_15.pdf) for "Causality and Machine Learning" (EECS 598).
 * **[10/08/2023]** I had the pleasure of giving a talk about my work for the [Ann Arbor Machine Learning Meetup](https://www.meetup.com/ann-arbor-machine-learning-meetup/), an informal community gathering for those interested in healthcare. 
 * **[08/30/2023]** This semester, I will be serving as the Graduate Student Instructor for the inaugural offering of [Maggie Makar's](https://mymakar.github.io/) Causality and Machine Learning course (EECS 598-009)!
-* **[05/23/2023]** I recently contributed to a STAT news article about large language models in healthcare: ["What does generative AI mean for healthcare?"](https://www.statnews.com/2023/u05/23/chatgpt-generative-ai-research-medicine-health/)
+
 
 Publications
 ======
@@ -41,7 +41,7 @@ Preprints/Workshop Papers
 
 Departmental Service
 ======
-* **Reviewed:** 2023 NeurIPS ML4H workshop, 2023 KDD epiDAMIK workshop, 2023 MLHC conference, 2022 NeurIPS ML4H workshop, 2022 MLHC conference, 2021 NeurIPS Research2Clinics workshop (Best Reviewer Award)
+* **Reviewed:** ML4H, AISTATS, MLHC, KDD (workshop), NeurIPS (workshop). Best Reviewer Award at 2021 Research2Clinics workshop (NeurIPS). 
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-present)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
 * **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022)
@@ -50,7 +50,7 @@ Teaching & Mentoring
 ======
 
 **Undergraduate/graduate level**
-* **[08/2023 - present]** Graduate student instructor, Causality and Machine Learning, EECS 598-009, University of Michigan
+* **[08/2023 - 12/2023]** Graduate student instructor, Causality and Machine Learning, EECS 598-009, University of Michigan
 * **[01/2021 - 03/2021]** Research Mentor, Stanford ACM
 
 **K-12 level**
