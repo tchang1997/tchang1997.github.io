@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan with the [MLD3 Lab](https://wiens-group.engin.umich.edu/) advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My primary research area is **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on the following:
+Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan AI lab, where I am a member of [MLD3](https://wiens-group.engin.umich.edu/).
+
+I am advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My primary research area is **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on:
 * Algorithms for mitigating the impact of biases on the performance and fairness of AI models 
 * Identifying potential sources of inequity in the data used to train AI models  
 
 I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
 
+I'm always looking to connect with people--please reach out if you want to chat about research!
+
 Email: `ctrenton (at) umich (dot) edu`
 
 Recent News
 ======
-* **[10/23/2023]** I delivered a course lecture on [Fairness in Machine Learning as a Causal Question](https://trentonchang.org/files/lecture_15.pdf) for "Causality and Machine Learning" (EECS 598).
-* **[10/08/2023]** I had the pleasure of giving a talk about my work for the [Ann Arbor Machine Learning Meetup](https://www.meetup.com/ann-arbor-machine-learning-meetup/), an informal community gathering for those interested in healthcare. 
-* **[08/30/2023]** This semester, I will be serving as the Graduate Student Instructor for the inaugural offering of [Maggie Makar's](https://mymakar.github.io/) Causality and Machine Learning course (EECS 598-009)!
-
+* **[03/27/2024]** I had the chance to give a lightning talk about my work in bias mitigation in the context of machine learning for healthcare for the [NIH Office of Data Science Strategy](https://odss-ai.pages.dev/).
 
 Publications
 ======
@@ -29,6 +30,8 @@ Publications
 Chi, Ethan A., Paranjape, Ashwin, See, Abigail, Chiam, Caleb, **Chang, Trenton** et. al. **Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**. SIGDIAL 2022. [[paper]](https://aclanthology.org/2022.sigdial-1.37/) [[video]](https://www.youtube.com/watch?v=4F3Az88q3KI)
 
 **Chang, Trenton**, Sjoding, Michael W., and Wiens, Jenna. **Disparate Censorship & Undertesting: A Source of Label Bias in Clinical Machine Learning.** MLHC 2022. [[paper]](https://arxiv.org/abs/2208.01127) [[video]](https://www.youtube.com/watch?v=Ty_l4SqKyCI)
+
+Srivastava, Aarohi, ..., **Chang, Trenton,** ..., et. al. **Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models.** TMLR 2022. [[paper]](https://arxiv.org/abs/2206.04615)
 
 Chi, Ethan A., Chiam, Caleb, **Chang, Trenton** et. al. **Neural, Neural Everywhere: Controlled Generation Meets Scaffolded, Structured Dialogue.** Alexa Prize Proceedings 2021. [[paper]](files/alexa_prize_report.pdf)
 
@@ -39,12 +42,12 @@ Preprints/Workshop Papers
 
 **Chang, Trenton**, Fu, Daniel Y., Li, Sharon, and Ré, Christopher. **Beyond the Pixels: Exploring the Effect of Video File Corruptions on Model Robustness.** Short Paper, *ECCV 2020 Workshop on Adversarial Robustness in the Real World.* [[paper]](http://pages.cs.wisc.edu/~sharonli/publications/video-corruption.pdf) [[video]](https://www.youtube.com/watch?v=RXYD4jMZyV0)
 
-Departmental Service
+Service
 ======
-* **Reviewed:** ML4H, AISTATS, MLHC, KDD (workshop), NeurIPS (workshop). Best Reviewer Award at 2021 Research2Clinics workshop (NeurIPS). 
+* **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS (workshop). Best Reviewer Award at 2021 Research2Clinics workshop (NeurIPS). 
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-present)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
-* **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022)
+* **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022 & 2024)
 
 Teaching & Mentoring
 ======
