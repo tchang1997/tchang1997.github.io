@@ -22,6 +22,8 @@ Email: `ctrenton (at) umich (dot) edu`
 
 Recent News
 ======
+* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at ICML 2024! We proposed a method for mitigating the impacts of biased missing lables -- more info coming soon.
+
 * **[03/27/2024]** I had the chance to give a lightning talk about my work in bias mitigation in the context of machine learning for healthcare for the [NIH Office of Data Science Strategy](https://odss-ai.pages.dev/).
 
 Publications
