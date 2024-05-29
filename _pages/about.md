@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan AI lab, where I am a member of [MLD3](https://wiens-group.engin.umich.edu/).
+Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). Currently (Summer 2024), I am at Microsoft Research in Redmond on internship with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/).
 
-I am advised by [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My primary research area is **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on:
-* Algorithms for mitigating the impact of biases on the performance and fairness of AI models 
-* Identifying potential sources of inequity in the data used to train AI models  
+I work on **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on:
+* Causally-motivated techniques for modeling, understanding, and mitigating biases in AI models
+* Identifying sources of inequity in data used to train AI models 
 
-I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/).
+I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to the Google [BIG-bench](https://github.com/google/BIG-bench) language model benchmark.
 
 I'm always looking to connect with people--please reach out if you want to chat about research!
 
@@ -22,12 +22,17 @@ Email: `ctrenton (at) umich (dot) edu`
 
 Recent News
 ======
-* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at ICML 2024! We proposed a method for mitigating the impacts of biased missing lables -- more info coming soon.
+
+* **[05/28/2024]** Starting as a Research Intern at Microsoft Research Redmond in the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/).
+
+* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at [ICML 2024](https://icml.cc/)! More info coming soon.
 
 * **[03/27/2024]** I had the chance to give a lightning talk about my work in bias mitigation in the context of machine learning for healthcare for the [NIH Office of Data Science Strategy](https://odss-ai.pages.dev/).
 
 Publications
 ======
+
+**Chang, Trenton**, Wiens, Jenna. **From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions.** ICML 2024. _To appear._
 
 Chi, Ethan A., Paranjape, Ashwin, See, Abigail, Chiam, Caleb, **Chang, Trenton** et. al. **Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**. SIGDIAL 2022. [[paper]](https://aclanthology.org/2022.sigdial-1.37/) [[video]](https://www.youtube.com/watch?v=4F3Az88q3KI)
 
@@ -46,8 +51,8 @@ Preprints/Workshop Papers
 
 Service
 ======
-* **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS (workshop). Best Reviewer Award at 2021 Research2Clinics workshop (NeurIPS). 
-* **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-present)
+* **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
+* **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-2024)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
 * **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022 & 2024)
 
