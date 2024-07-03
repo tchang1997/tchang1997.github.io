@@ -25,14 +25,14 @@ Recent News
 
 * **[05/28/2024]** Starting as a Research Intern at Microsoft Research Redmond in the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/).
 
-* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at [ICML 2024](https://icml.cc/)! More info coming soon.
+* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at [ICML 2024](https://icml.cc/)! 
 
 * **[03/27/2024]** I had the chance to give a lightning talk about my work in bias mitigation in the context of machine learning for healthcare for the [NIH Office of Data Science Strategy](https://odss-ai.pages.dev/).
 
 Publications
 ======
 
-**Chang, Trenton**, Wiens, Jenna. **From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions.** ICML 2024. _To appear._
+**Chang, Trenton**, Wiens, Jenna. **From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions.** ICML 2024. [[paper]](https://arxiv.org/abs/2406.18865) [[code]](https://github.com/MLD3/DCEM/)
 
 Chi, Ethan A., Paranjape, Ashwin, See, Abigail, Chiam, Caleb, **Chang, Trenton** et. al. **Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent**. SIGDIAL 2022. [[paper]](https://aclanthology.org/2022.sigdial-1.37/) [[video]](https://www.youtube.com/watch?v=4F3Az88q3KI)
 
@@ -52,6 +52,7 @@ Preprints/Workshop Papers
 Service
 ======
 * **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
+* **Workflow Subchair, ML4H Symposium Program Committee** (2024)
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-2024)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
 * **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022 & 2024)
