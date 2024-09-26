@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 3rd year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). Currently (Summer 2024), I am at Microsoft Research in Redmond on internship with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/).
+Hi, I'm Trenton (he/him)! I am a 4th year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I was on internship at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/).
 
-I work on **machine learning fairness and causal inference inspired by healthcare use-cases.** My work focuses on:
-* Causally-motivated techniques for modeling, understanding, and mitigating biases in AI models
-* Identifying sources of inequity in data used to train AI models 
+I work on **machine learning fairness inspired by healthcare use-cases.** My work focuses on modeling, understanding, and mitigating biases in AI models.
 
 I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to the Google [BIG-bench](https://github.com/google/BIG-bench) language model benchmark.
 
@@ -23,11 +21,11 @@ Email: `ctrenton (at) umich (dot) edu`
 Recent News
 ======
 
+* **[09/25/2024]** My paper, "Who's Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation" is accepted to NeurIPS 2024. We present a method for using causal inference as a method for fraud detection, inspired by [upcoding in Medicare](https://www.nytimes.com/2022/10/08/upshot/medicare-advantage-fraud-allegations.html). 
+
 * **[05/28/2024]** Starting as a Research Intern at Microsoft Research Redmond in the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/).
 
 * **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at [ICML 2024](https://icml.cc/)! 
-
-* **[03/27/2024]** I had the chance to give a lightning talk about my work in bias mitigation in the context of machine learning for healthcare for the [NIH Office of Data Science Strategy](https://odss-ai.pages.dev/).
 
 Publications
 ======
@@ -52,7 +50,7 @@ Preprints/Workshop Papers
 Service
 ======
 * **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
-* **Workflow Subchair, ML4H Symposium Program Committee** (2024)
+* **Workflow Chair, ML4H Symposium Program Committee** (2024)
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-2024)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
 * **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022 & 2024)
