@@ -8,27 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton (he/him)! I am a 4th year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I was on internship at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/).
+Hi, I'm Trenton! I am a 4th year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I was on internship at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by Adith Swaminathan and Tobias Schnabel.
 
 I work on **machine learning fairness inspired by healthcare use-cases.** My work focuses on modeling, understanding, and mitigating biases in AI models.
 
 I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to the Google [BIG-bench](https://github.com/google/BIG-bench) language model benchmark.
 
-I'm always looking to connect with people--please reach out if you want to chat about research!
+**Contact.** If you're another researcher in the machine learning, causal inference, or healthcare space--please reach out if you want to chat about research! 
+
+**For current Michigan undergraduate and Masters' students interested in working with me,** please email me to set up a one-off coffee chat if you'd like to discuss some research ideas. 
 
 Email: `ctrenton (at) umich (dot) edu`
 
 Recent News
 ======
 
+* **[10/30/2024]** My study on racial biases in laboratory testing is now published in [PLOS Global Public Health](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003555). Read more from Michigan Engineering News [here](https://cse.engin.umich.edu/stories/accounting-for-bias-in-medical-data-helps-prevent-ai-from-amplifying-racial-disparity).
+
+* **[10/24/2024]** Honored to represent the Michigan AI lab in the department-wide research honors competition! Thank you to my peers and my advisor Jenna for their continued support on my research.
+
+* **[10/12/2024]** I will be presenting preliminary results from my internship project at Microsoft Research on designing an evaluation framework for the steerability of large language models at the NeurIPS SafeGenAI workshop! Pre-print coming soon.
+
 * **[09/25/2024]** My paper, "Who's Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation" is accepted to NeurIPS 2024. We present a method for using causal inference as a method for fraud detection, inspired by [upcoding in Medicare](https://www.nytimes.com/2022/10/08/upshot/medicare-advantage-fraud-allegations.html). 
-
-* **[05/28/2024]** Starting as a Research Intern at Microsoft Research Redmond in the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/).
-
-* **[05/01/2024]** My paper, "From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions" was accepted at [ICML 2024](https://icml.cc/)! 
 
 Publications
 ======
+**Chang, Trenton,** Nuppnau, Mark, He, Ying, Kocher, Keith E., Valley, Thomas S., Sjoding, Michael W., Wiens, Jenna. **Racial differences in laboratory testing as a potential mechanism for bias in AI: A matched cohort analysis in emergency department visits**. PLOS Global Public Health. [[paper](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003555)]
 
 **Chang, Trenton**, Wiens, Jenna. **From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions.** ICML 2024. [[paper]](https://arxiv.org/abs/2406.18865) [[code]](https://github.com/MLD3/DCEM/)
 
@@ -50,7 +55,8 @@ Preprints/Workshop Papers
 Service
 ======
 * **Reviewed:** AISTATS, MLHC, ML4H, KDD (workshop), NeurIPS. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
-* **Workflow Chair, ML4H Symposium Program Committee** (2024)
+* **Michigan AI Blog Co-Coordinator** (2024-present)
+* **Workflow Chair, ML4H Symposium Program Committee** (2024-present)
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-2024)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
 * **AI Lab Graduate Admissions Committee Volunteer,** Division of Computer Science & Engineering, University of Michigan (2022 & 2024)
