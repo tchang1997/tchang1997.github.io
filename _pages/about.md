@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton! I am a 4th year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I was on internship at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by Adith Swaminathan and Tobias Schnabel.
+Hi, I'm Trenton! I am a final-year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I interned at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by Adith Swaminathan and Tobias Schnabel. **I'm on the industry job market this year, looking for Research Scientist roles.**
 
-I work on **aligning machine learning model behaviors towards high-level principles such as fairness, controllability, and robustness to gaming.** I often take inspiration from health/bioinformatics and policy use cases. My work has intersected with areas including ML fairness, strategic classification, causal inference, and LLM evaluation. 
+I work on **ML alignment with domain-specific values throughout the entire ML lifecycle**, from training to post-deployment. To date, I've worked on:
+* Aligning ML models with fairness criteria when learning from biased labels ([MLHC '22](https://arxiv.org/abs/2208.01127), [ICML '24](https://arxiv.org/abs/2406.18865))
+* Measuring the steerability of LLMs, with applications to personalization (NeurIPS SafeGenAI '24, [pre-print](https://arxiv.org/abs/2505.23816))
+* Ensuring ML models are resistant to abuse post-deployment, with applications to health insurance risk adjustment ([NeurIPS '24](https://arxiv.org/html/2412.02000v1))
 
-I earned my M.S. in Computer Science from Stanford in 2021, and my B.A. in American Studies from Stanford in 2020. I've previously worked on video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to the Google [BIG-bench](https://github.com/google/BIG-bench) language model benchmark.
+My work often takes inspiration from healthcare and policy. To that end, I've worked with interdisciplinary teams featuring clinicians, economists, bioethicists, data scientists, and more. Technically, my work has touched areas including ML fairness, strategic classification, causal inference, and LLM evaluation. 
+
+I was previously an CS MS student @ Stanford (2021) and earned a BA in American Studies along the way (2020). Earlier I worked in video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to Google [BIG-bench](https://github.com/google/BIG-bench).
 
 **Contact.** If you're another researcher in the machine learning, causal inference, or healthcare space--please reach out if you want to chat about research! 
 
@@ -23,11 +28,13 @@ Email: `ctrenton (at) umich (dot) edu`
 Recent News
 ======
 
+* **[8/6/2025]** I started performing as a jazz pianist in Ann Arbor! Anyway, that inspired me to write [some thoughts about jazz + GenAI](https://straightnoreg.substack.com/p/a-ladder-of-creativity-what-jazz).
+
+* **[7/30/2025]** I was a finalist for the College of Engineering's Beyster Computational Fellows Program, representing Michigan CSE.
+
+* **[7/30/2025]** Passed my thesis proposal exam (title: *Predictions as behaviors: Steering machine learning models towards high-level principles*).
+
 * **[5/28/2025]** My [pre-print](https://arxiv.org/abs/2505.23816) on the steerability of LLMs with Microsoft Research & Netflix is now on arXiv! We've open-sourced our evaluation framework on [[Github]](https://github.com/MLD3/steerability). Learn more at our [website](https://steerability.org) and visualize some of our results [here](https://steerability.onrender.com/).
-
-* **[4/28/2025]** I was a lead student contributor to the Michigan AI lab's [white paper](https://arxiv.org/abs/2504.16778) on LLM evaluation, contributing sections on health AI and general evaluation.
-
-* **[4/9/2025]** Our new [paper](https://arxiv.org/abs/2505.05677) on conditional front-door adjustment for causal effect estimation and its advantages for estimation under treatment non-adherence will appear in CHIL 2025!
 
 
 Selected Publications
@@ -35,7 +42,7 @@ Selected Publications
 
 **Chang, Trenton,** Schnabel, Tobias, Swaminathan, Adith, and Wiens, Jenna. **A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs.** arXiv preprint. [[pre-print]](https://arxiv.org/abs/2505.23816) [[website]](https://steerability.org) [[demo]](https://steerability.onrender.com/)
 
-Jabbour, Sarah\*, **Chang, Trenton**\*, Antar, Anindya Das, et. al. **Evaluation Framework for AI Systems in "the Wild."** arXiv preprint. [[paper]](https://arxiv.org/abs/2504.16778)
+Jabbour, Sarah\*, **Chang, Trenton**\*, Antar, Anindya Das\*, et. al. **Evaluation Framework for AI Systems in "the Wild."** arXiv preprint. [[paper]](https://arxiv.org/abs/2504.16778)
 
 **Chang, Trenton,** Warrenburg, Lindsay, Park, Sae-Hwan, Parikh, Ravi B., Makar, Maggie, and Wiens, Jenna. **Who’s Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation.** NeurIPS 2024. [[paper]](https://arxiv.org/html/2412.02000v1)
 
@@ -53,9 +60,9 @@ Chi, Ethan A., Chiam, Caleb, **Chang, Trenton** et. al. **Neural, Neural Everywh
 
 Service
 ======
-* **Reviewed:** AISTATS, ICLR, ICML, MLHC, ML4H, KDD (workshop), NeurIPS, TMLR. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
+* **Reviewed:** AAAI, AISTATS, CHIL, ICLR, ICML, MLHC, ML4H, KDD (workshop), NeurIPS, TMLR. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
 * **Outreach Chair, ML4H Symposium Program Committee** (2025)
-* **Michigan AI Blog Co-Coordinator** (2024-present)
+* **Michigan AI Blog Co-Coordinator** (2024-2025)
 * **Workflow Chair, ML4H Symposium Program Committee** (2024)
 * **University Relations Chair, Computer Science & Engineering Graduate Student Organization,** University of Michigan (2023-2024)
 * **Panelist, Summer Research Opportunity Program,** University of Michigan (2023)
