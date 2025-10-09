@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Trenton! I am a final-year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I interned at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by Adith Swaminathan and Tobias Schnabel. **I'm on the industry job market this year, looking for Research Scientist roles.**
+Hi, I'm Trenton! I am a final-year EECS PhD Candidate at the University of Michigan AI lab, advised by [Jenna Wiens](https://wiens-group.engin.umich.edu/). During Summer 2024, I interned at Microsoft Research Redmond with the [Augmented Reasoning & Learning Group](https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/) mentored by Adith Swaminathan and Tobias Schnabel.
 
 I work on **ML alignment with domain-specific values throughout the entire ML lifecycle**, from training to post-deployment. To date, I've worked on:
 * Aligning ML models with fairness criteria when learning from biased labels ([MLHC '22](https://arxiv.org/abs/2208.01127), [ICML '24](https://arxiv.org/abs/2406.18865))
@@ -20,8 +20,6 @@ My work often takes inspiration from healthcare and policy. To that end, I've wo
 I was previously an CS MS student @ Stanford (2021) and earned a BA in American Studies along the way (2020). Earlier I worked in video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to Google [BIG-bench](https://github.com/google/BIG-bench).
 
 **Contact.** If you're another researcher in the machine learning, causal inference, or healthcare space--please reach out if you want to chat about research! 
-
-**For current Michigan students interested in working with me,** please email me to set up a one-off coffee chat if you'd like to discuss some research ideas. 
 
 Email: `ctrenton (at) umich (dot) edu`
 
