@@ -17,7 +17,7 @@ I work on **ML alignment with domain-specific values throughout the entire ML li
 
 My work often takes inspiration from healthcare and policy. To that end, I've worked with interdisciplinary teams featuring clinicians, economists, bioethicists, data scientists, and more. Technically, my work has touched areas including ML fairness, strategic classification, causal inference, and LLM evaluation. 
 
-I was previously an CS MS student @ Stanford (2021) and earned a BA in American Studies along the way (2020). Earlier I worked in video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to Google [BIG-bench](https://github.com/google/BIG-bench).
+I was previously an CS M.S. student @ Stanford (2021) and earned a B.A. in American Studies along the way (2020). Earlier I worked in video machine learning robustness with [HazyResearch](https://hazyresearch.stanford.edu/) and open-domain conversational AI for the Alexa Grand Prize Socialbot Challenge with the [Stanford NLP Group](https://stanfordnlp.github.io/chirpycardinal/). I was also a contributor to Google [BIG-bench](https://github.com/google/BIG-bench).
 
 **Contact.** If you're another researcher in the machine learning, causal inference, or healthcare space--please reach out if you want to chat about research! 
 
@@ -26,14 +26,11 @@ Email: `ctrenton (at) umich (dot) edu`
 Recent News
 ======
 
+* **[11/15/2025]** ["A Course Correction in Steerability Evaluation"](https://arxiv.org/abs/2505.23816) has been accepeted to **AAAI 2026 as an oral** (alignment track). Final version coming soon!
+
+* **[11/7/2025]** I had the incredible chance to interview Michigan alumnus and 2024 Turing winner Andrew G. Barto, on his thoughts about [modern AI and career advice for today's researchers.](https://ai.engin.umich.edu/2025/11/07/follow-passion-not-fashion-andrew-barto-on-modern-ai-safety-and-the-art-of-engineering/)
+
 * **[8/6/2025]** I started performing as a jazz pianist in Ann Arbor! Anyway, that inspired me to write [some thoughts about jazz + GenAI](https://straightnoreg.substack.com/p/a-ladder-of-creativity-what-jazz).
-
-* **[7/30/2025]** I was a finalist for the College of Engineering's Beyster Computational Fellows Program, representing Michigan CSE.
-
-* **[7/30/2025]** Passed my thesis proposal exam (title: *Predictions as behaviors: Steering machine learning models towards high-level principles*).
-
-* **[5/28/2025]** My [pre-print](https://arxiv.org/abs/2505.23816) on the steerability of LLMs with Microsoft Research & Netflix is now on arXiv! We've open-sourced our evaluation framework on [[Github]](https://github.com/MLD3/steerability). Learn more at our [website](https://steerability.org) and visualize some of our results [here](https://steerability.onrender.com/).
-
 
 Selected Publications
 ======
@@ -58,7 +55,8 @@ Chi, Ethan A., Chiam, Caleb, **Chang, Trenton** et. al. **Neural, Neural Everywh
 
 Service
 ======
-* **Reviewed:** AAAI, AISTATS, CHIL, ICLR, ICML, MLHC, ML4H, KDD (workshop), NeurIPS, TMLR. Best Reviewer Award at Research2Clinics, 2021 NeurIPS workshop. 
+* **Reviewed:** AAAI, AISTATS, CHIL, ICLR, ICML, MLHC, ML4H, KDD (workshop), NeurIPS (top reviewer, 2024 & 2025), TMLR. 
+* **Student Judge, Michigan AI Symposium** (2025)
 * **Outreach Chair, ML4H Symposium Program Committee** (2025)
 * **Michigan AI Blog Co-Coordinator** (2024-2025)
 * **Workflow Chair, ML4H Symposium Program Committee** (2024)
